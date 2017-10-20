@@ -1,9 +1,9 @@
 <?php
 
-	//memulai session
-	session_start();
+//memulai session
+session_start();
 	
-	//memanggil koneksi
+//memanggil koneksi
 	
 include "../lib/conn.php";
 
